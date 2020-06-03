@@ -8,9 +8,13 @@ CNN was trained for detecting Pneumonia given Chest X-Rays. After training the m
 
 This dataset has 5863 images for the 2 classes.
 
+Sample Images:
+
+<img src='README_Images/Sample Images.png' />
+
 ## Model
 
-[Model Image]
+<img src='README_Images/Model.png' />
 
 ## Models Comparison
 
@@ -19,13 +23,15 @@ This dataset has 5863 images for the 2 classes.
 * Model 3 - Convolutional, Batch Normalization, MaxPooling, Dropout and Fully Connected Layers
 * Model 4 - Convolutional, Batch Normalization, MaxPooling and Fully Connected Layers
 
-[Comparison Image]
+<img src='README_Images/Models Comparison.png' />
 
 ## Model's Performance
-[Insert learning curves]
+
+<img src='README_Images/Learning Curves.png' />
 
 ## Model's Performance on Test Set
-[Insert Confusion Matrix]
+
+<img src='README_Images/Confusion Matrix.png' />
 
 ## Execution Details
 
@@ -33,4 +39,4 @@ The model was trained using Keras with TF backend on Kaggle Kernels using
 
 ## Links
 
-* [Kaggle | Kartik Shenoy | Chest X-Ray Scans Pneumonia Identification](https://www.kaggle.com/kartik2112/chest-x-ray-scans-pneumonia-identification/notebook?scriptVersionId=35394324#Compare-Performances-of-4-Models)
+* [Kaggle Kernel | Kartik Shenoy | Chest X-Ray Scans Pneumonia Identification](https://www.kaggle.com/kartik2112/chest-x-ray-scans-pneumonia-identification/notebook?scriptVersionId=35394324#Compare-Performances-of-4-Models)
