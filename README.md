@@ -35,7 +35,7 @@ Sample Images:
 
 ## Execution Details
 
-The model was trained using Keras with TF backend on Kaggle Kernels using 
+The model was trained using Keras with TF backend on Kaggle Kernels using NVidia K80 GPU with 16 GB RAM.
 
 ## Links
 
