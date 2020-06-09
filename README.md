@@ -16,6 +16,8 @@ Sample Images:
 
 <img src='README_Images/Model.png' />
 
+The trained model can be downloaded from the Output tab of the [Kaggle Kernel](https://www.kaggle.com/kartik2112/chest-x-ray-scans-pneumonia-identification/output?scriptVersionId=35394324)
+
 ## Models Comparison
 
 * Model 1 - Convolutional, MaxPooling and Fully Connected Layers
